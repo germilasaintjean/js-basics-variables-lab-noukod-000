@@ -1,3 +1,3 @@
 // Code your solution in this
-const companyName = "Scuber"
-var companyCeo = "Chelsea"
+let companyName = "Scuber"
+ companyNme = "Chelsea"
