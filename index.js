@@ -1,2 +1,2 @@
-// Code your solution in this file!
-companyName == 'Scuber'
+// Code your solution in this
+let companyName = "Scuber"
