@@ -1,2 +1,2 @@
 // Code your solution in this
-var companyName = "Scuber"
+const companyName = "Scuber"
